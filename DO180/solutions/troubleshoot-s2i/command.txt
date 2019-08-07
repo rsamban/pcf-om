@@ -1,3 +1,0 @@
-oc new-app --build-env npm_config_registry=\
-http://infrastructure.lab.example.com:8081/nexus/content/groups/nodejs/ \
- nodejs:4~http://infrastructure.lab.example.com/nodejs-helloworld
